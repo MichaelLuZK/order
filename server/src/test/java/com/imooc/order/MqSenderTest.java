@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  * 发送mq消息测试
- * Created by 廖师兄
+ * Created by lzk
  * 2018-02-04 22:06
  */
 @Component
